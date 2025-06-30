@@ -58,7 +58,8 @@
 
 > Automatically updates based on your Chess.com activity
 
-[![Chess.com]](https://www.chess.com/member/simply-kk)
+[![Chess.com](https://img.shields.io/badge/Chess.com-Profile-blue?logo=chess.com)](https://www.chess.com/member/simply_kk)
+
 
 > *(Don’t forget to connect your Chess.com username. Want me to help automate that?)*
 
