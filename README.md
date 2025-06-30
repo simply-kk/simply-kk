@@ -58,7 +58,7 @@
 
 > Automatically updates based on your Chess.com activity
 
-[![Chess.com](https://img.shields.io/badge/Chess.com-Profile-blue?logo=chess.com)](https://www.chess.com/member/simply-kk)
+[![Chess.com]](https://www.chess.com/member/simply-kk)
 
 > *(Don’t forget to connect your Chess.com username. Want me to help automate that?)*
 
@@ -67,7 +67,7 @@
 ## 📬 Contact Me
 
 📧 Email: **shhkhan33@gmail.com**  
-🔗 LinkedIn: [linkedin.com/in/simply-kk](https://www.linkedin.com/in/simply-kk)  
+🔗 LinkedIn: [linkedin.com/in/simply-kk](https://www.linkedin.com/in/md-khalid-khan/)  
 🐙 GitHub: [github.com/simply-kk](https://github.com/simply-kk)
 
 ---
